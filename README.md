@@ -12,6 +12,5 @@ Course: https://www.hackingwithswift.com/100
 | [02](/100-days-of-code.playground/Pages/Day%202.xcplaygroundpage/Contents.swift) | **Complex Types:** Arrays, Tuples, Sets, Dictionaries, Default values, Empty collections, Enum, Raw values |
 | [03](/100-days-of-code.playground/Pages/Day%203.xcplaygroundpage/Contents.swift) | **Operators and conditions:** Arithmetic operators, Operator overloading, Compound assignment operators, Conditions, Ternary operator, Switch statements, Range operators |
 |[04](/100-days-of-code.playground/Pages/Day%204.xcplaygroundpage/Contents.swift)| **Loops:** For, While, Repeat, Exiting loops, Exiting multiple loops, Skipping items, Infinite Loops |
-
-
+|[05](/100-days-of-code.playground/Pages/Day%205.xcplaygroundpage/Contents.swift) |**Functions:** Writing functions, Accepting parameters, Returning values, Parameter labels, Omitting parameter labels, Default, Variadic, Throwning, Inout|
 
