@@ -19,3 +19,4 @@ Course: https://www.hackingwithswift.com/100
 |[10](/100-days-of-code.playground/Pages/Day%2010.xcplaygroundpage/Contents.swift) |**Classes:** Creating classes, Class inheritance, Overriding methods, Final classes, Copying objects, Deinitializers, Mutability |
 |[11](/100-days-of-code.playground/Pages/Day%2011.xcplaygroundpage/Contents.swift) |**Protocols and extensions:** Protocols, Protocols inheritance, Extensions, Protocol extensions, Protocol-oriented programming |
 |[12](/100-days-of-code.playground/Pages/Day%2012.xcplaygroundpage/Contents.swift) |**Optionals:** Handling missing data, Unwrapping optionals, Unwrapping with guard, Force unwrapping, Implicitly unwrapped optionals, Nil coalescing, Optional chaining, Optional try, Failable initializers, Type casting |
+|[13] | **Review day 1:** Variables and constants, Types of data, Operators, Interpolation, Arrays, Dictionaries, Conditionals, Loops, Switch |
