@@ -21,3 +21,4 @@ Course: https://www.hackingwithswift.com/100
 |[12](/100-days-of-code.playground/Pages/Day%2012.xcplaygroundpage/Contents.swift) |**Optionals:** Handling missing data, Unwrapping optionals, Unwrapping with guard, Force unwrapping, Implicitly unwrapped optionals, Nil coalescing, Optional chaining, Optional try, Failable initializers, Type casting |
 | 13 | **Review day 1:** Variables and constants, Types of data, Operators, Interpolation, Arrays, Dictionaries, Conditionals, Loops, Switch |
 | 14 | **Review day 2:** Functions, Optionals, Optional chaining, Enumerations, Structs, Classes|
+| 15 | **Review day 3: ** Properties, Static properties and methods, Access control, Polymorphism and typecasting, Closures |
