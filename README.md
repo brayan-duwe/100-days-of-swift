@@ -22,3 +22,11 @@ Course: https://www.hackingwithswift.com/100
 | 13 | **Review day 1:** Variables and constants, Types of data, Operators, Interpolation, Arrays, Dictionaries, Conditionals, Loops, Switch |
 | 14 | **Review day 2:** Functions, Optionals, Optional chaining, Enumerations, Structs, Classes|
 | 15 | **Review day 3:** Properties, Static properties and methods, Access control, Polymorphism and typecasting, Closures |
+
+# 100 days of SwiftUI 📲 🦅
+
+| Day | Topics |
+| ----- | -------- |
+|[Checkpoint 1](/100-days-of-code.playground/Pages/Checkpoint%201.xcplaygroundpage/Contents.swift) | Simple types|
+|[Checkpoint 2](/100-days-of-code.playground/Pages/Checkpoint%202.xcplaygroundpage/Contents.swift) | Array counter |
+|[Checkpoint 3](/100-days-of-code.playground/Pages/Checkpoint%203.xcplaygroundpage/Contents.swift) | Switch |
