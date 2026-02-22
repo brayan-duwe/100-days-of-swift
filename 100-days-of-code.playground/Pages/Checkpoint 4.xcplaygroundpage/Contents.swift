@@ -8,7 +8,7 @@ func squareRoot(_ number: Int) throws -> Int {
     if number < 1 || number > 10000 {
         throw squareRootError.numberHigherOrLower
     }
-    for var root in 1..<number {
+    for root in 1..<number {
         root * root
         if root * root == number {
             return root
@@ -17,4 +17,4 @@ func squareRoot(_ number: Int) throws -> Int {
     throw squareRootError.noRoot
 }
     
-try squareRoot(16)
+try squareRoot(25)

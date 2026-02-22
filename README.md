@@ -30,3 +30,4 @@ Course: https://www.hackingwithswift.com/100
 |[Checkpoint 1](/100-days-of-code.playground/Pages/Checkpoint%201.xcplaygroundpage/Contents.swift) | Simple types|
 |[Checkpoint 2](/100-days-of-code.playground/Pages/Checkpoint%202.xcplaygroundpage/Contents.swift) | Array counter |
 |[Checkpoint 3](/100-days-of-code.playground/Pages/Checkpoint%203.xcplaygroundpage/Contents.swift) | Switch |
+|[Checkpoint 4](/100-days-of-code.playground/Pages/Checkpoint%204.xcplaygroundpage/Contents.swift) | Function + enum |
