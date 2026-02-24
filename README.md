@@ -33,3 +33,4 @@ Course: https://www.hackingwithswift.com/100
 |[Checkpoint 4](/100-days-of-code.playground/Pages/Checkpoint%204.xcplaygroundpage/Contents.swift) | Function + enum |
 |[Checkpoint 5](/100-days-of-code.playground/Pages/Checkpoint%205.xcplaygroundpage/Contents.swift) | Closures
 |[Checkpoint 6](/100-days-of-code.playground/Pages/Checkpoint%206.xcplaygroundpage/Contents.swift)| Struct |
+|[Checkpoint 7](/100-days-of-code.playground/Pages/Checkpoint%207.xcplaygroundpage/Contents.swift)| Classes - Inheritance |
