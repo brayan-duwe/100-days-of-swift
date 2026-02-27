@@ -34,3 +34,4 @@ Course: https://www.hackingwithswift.com/100
 |[Checkpoint 5](/100-days-of-code.playground/Pages/Checkpoint%205.xcplaygroundpage/Contents.swift) | Closures
 |[Checkpoint 6](/100-days-of-code.playground/Pages/Checkpoint%206.xcplaygroundpage/Contents.swift)| Struct |
 |[Checkpoint 7](/100-days-of-code.playground/Pages/Checkpoint%207.xcplaygroundpage/Contents.swift)| Classes - Inheritance |
+|[Checkpoint 8](/100-days-of-code.playground/Pages/Checkpoint%208.xcplaygroundpage/Contents.swift)| Protocols |
