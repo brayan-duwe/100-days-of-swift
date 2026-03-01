@@ -13,7 +13,7 @@ Course: https://www.hackingwithswift.com/100
 | [03](/100-days-of-code.playground/Pages/Day%203.xcplaygroundpage/Contents.swift) | **Operators and conditions:** Arithmetic operators, Operator overloading, Compound assignment operators, Conditions, Ternary operator, Switch statements, Range operators |
 |[04](/100-days-of-code.playground/Pages/Day%204.xcplaygroundpage/Contents.swift)| **Loops:** For, While, Repeat, Exiting loops, Exiting multiple loops, Skipping items, Infinite Loops |
 |[05](/100-days-of-code.playground/Pages/Day%205.xcplaygroundpage/Contents.swift) |**Functions:** Writing functions, Accepting parameters, Returning values, Parameter labels, Omitting parameter labels, Default, Variadic, Throwning, Inout|
-|[06 and 07](/100-days-of-code.playground/Pages/Day%206.xcplaygroundpage/Contents.swift) |**Closures:** Basic closures, Accepting parameters, Returning values, Closures as parameters, Trailing syntax, Shorthand names, Multiple parameters, Returning from functions, Capturing values |
+|[06 and 07](/100-days-of-code.playground/Pages/Day%206%20and%207.xcplaygroundpage/Contents.swift) |**Closures:** Basic closures, Accepting parameters, Returning values, Closures as parameters, Trailing syntax, Shorthand names, Multiple parameters, Returning from functions, Capturing values |
 |[08](/100-days-of-code.playground/Pages/Day%208.xcplaygroundpage/Contents.swift) |**Structs:** Creating structs, Computed properties, Property observers, Methods, Mutating methods, Properties and methods of strings, Properties and methods of arrays |
 |[09](/100-days-of-code.playground/Pages/Day%209.xcplaygroundpage/Contents.swift) |**Structs part 2:** Initializers, Referring to the current instance, Lazy properties, Static properties and methods, Access control|
 |[10](/100-days-of-code.playground/Pages/Day%2010.xcplaygroundpage/Contents.swift) |**Classes:** Creating classes, Class inheritance, Overriding methods, Final classes, Copying objects, Deinitializers, Mutability |
@@ -35,3 +35,4 @@ Course: https://www.hackingwithswift.com/100
 |[Checkpoint 6](/100-days-of-code.playground/Pages/Checkpoint%206.xcplaygroundpage/Contents.swift)| Struct |
 |[Checkpoint 7](/100-days-of-code.playground/Pages/Checkpoint%207.xcplaygroundpage/Contents.swift)| Classes - Inheritance |
 |[Checkpoint 8](/100-days-of-code.playground/Pages/Checkpoint%208.xcplaygroundpage/Contents.swift)| Protocols |
+|[Checkpoint 9](/100-days-of-code.playground/Pages/Checkpoint%209.xcplaygroundpage/Contents.swift)| Optionals |
