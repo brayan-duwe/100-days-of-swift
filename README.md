@@ -36,3 +36,9 @@ Course: https://www.hackingwithswift.com/100
 |[Checkpoint 7](/100-days-of-code.playground/Pages/Checkpoint%207.xcplaygroundpage/Contents.swift)| Classes - Inheritance |
 |[Checkpoint 8](/100-days-of-code.playground/Pages/Checkpoint%208.xcplaygroundpage/Contents.swift)| Protocols |
 |[Checkpoint 9](/100-days-of-code.playground/Pages/Checkpoint%209.xcplaygroundpage/Contents.swift)| Optionals |
+
+# Projects 👨🏽‍💻
+
+- [Project 1 - WeSplit](https://github.com/brayan-duwe/WeSplit-app)
+- [Challenge 1 - Quick Convert](https://github.com/brayan-duwe/QuickConvert-app)
+- [Project 2 - Guess The Flag](https://github.com/brayan-duwe/GuessTheFlag-app)
